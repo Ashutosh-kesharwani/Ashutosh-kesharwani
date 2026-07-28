@@ -11,7 +11,6 @@
 </p>
 
 
-
 <p align="center">
   <b>Engineering scalable systems • Solving production problems • Building impactful products</b>
 </p>
