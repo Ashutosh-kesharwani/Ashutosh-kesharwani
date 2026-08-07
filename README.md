@@ -166,8 +166,8 @@ Diagnosed and resolved production-level backend issues in a live MVC-based syste
 ## `05.` GITHUB PULSE
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ashutosh-kesharwani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" height="165"/>
-<!-- <img src="https://streak-stats.demolab.com?user=ashutosh-kesharwani&theme=radical&hide_border=true&background=0D1117" height="165"/> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ashutosh-kesharwani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" height="165"/> -->
+<img src="https://streak-stats.demolab.com?user=ashutosh-kesharwani&theme=radical&hide_border=true&background=0D1117" height="165"/>
 </div>
 
 <div align="center">
