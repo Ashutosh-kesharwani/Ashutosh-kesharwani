@@ -6,11 +6,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=260&section=header&text=ASHUTOSH%20KESHARWANI&fontSize=38&fontColor=A78BFA&fontAlignY=32&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2400&pause=600&color=6EE7B7&background=00000000&center=true&vCenter=true&multiline=true&width=820&height=90&lines=Full+Stack+Developer+%7C+MERN;Frontend-Leaning+%E2%80%94+I+design+interfaces%2C+then+power+them;React+%2B+Three.js+%2B+Node.js+%2B+MongoDB;Currently+Engineering+at+OctaScale+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2400&pause=600&color=6EE7B7&background=00000000&center=true&vCenter=true&multiline=true&width=820&height=90&lines=Full+Stack+Developer+%7C+MERN;React+%2B+Three.js+%2B+Node.js+%2B+MongoDB;Open+to+Full-Time+Opportunities;300%2B+DSA+Problems+Solved" />
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/⚛️_Frontend-High_Expertise-A78BFA?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/⚛️_Frontend-Confident-A78BFA?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/🛠️_Backend-Strong-6EE7B7?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/🚀_Ships_Full_Products-Always-F472B6?style=for-the-badge&labelColor=0D1117"/>
 
@@ -38,17 +38,16 @@
 ```js
 const ashutosh = {
   role: "Full Stack Developer",
-  strongestIn: "Frontend Engineering (React, Three.js, animation/UI craft)",
-  alsoOwns: ["Node.js APIs", "MongoDB schema design", "Auth & security"],
-  currentlyAt: "OctaScale Technologies (Junior Associate – IT)",
-  focus: ["real-time supply chain systems", "scalable backend architecture"],
+  frontend: ["React", "Three.js", "Tailwind", "animation & UI craft"],
+  backend: ["Node.js APIs", "MongoDB schema design", "Auth & security"],
+  experience: "Junior Associate – IT @ OctaScale Technologies (real-time supply chain systems)",
   philosophy: "trace bugs to root cause, design for scale before it's needed",
   shipped: ["Cravio - production food-ordering platform", "AshVerse - 3D portfolio"],
   problemsSolved: "300+",
 };
 ```
 
-I design interfaces first, then build the systems that power them. My React work goes beyond components — 3D scenes, motion, and polish are part of how I ship — backed by backend and database work solid enough to run in production.
+I build across the full stack — from interface to database — with an eye for clean UI and systems solid enough to run in production.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -98,9 +97,9 @@ ML classification models wired into a real-time prediction web interface for dia
 
 ### 💼 Freelance & Production Fixes
 
-`Ruby on Rails` `MVC` `SQL`
+`MVC` `SQL`
 
-Diagnosed and resolved production-level backend issues in a live Rails MVC system. Delivered multiple freelance full-stack builds end-to-end, consistent positive client feedback.
+Diagnosed and resolved production-level backend issues in a live MVC-based system. Delivered multiple freelance full-stack builds end-to-end, consistent positive client feedback.
 
 </td>
 </tr>
@@ -112,7 +111,7 @@ Diagnosed and resolved production-level backend issues in a live Rails MVC syste
 
 <div align="center">
 
-**Frontend — my strongest lane**
+**Frontend**
 <br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
@@ -124,7 +123,6 @@ Diagnosed and resolved production-level backend issues in a live Rails MVC syste
 <br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
 **Databases**
@@ -164,8 +162,6 @@ Diagnosed and resolved production-level backend issues in a live Rails MVC syste
 | 🔍 Root cause over patch | Production debugging means understanding *why*, not just *what* |
 | 🔐 Security by default | JWT + bcrypt + HttpOnly cookies + role-based access, always |
 | 🚀 Own the full pipeline | Comfortable end-to-end: schema → API → UI → deploy |
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## `05.` GITHUB PULSE
 
