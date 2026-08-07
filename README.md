@@ -174,8 +174,6 @@ Diagnosed and resolved production-level backend issues in a live MVC-based syste
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-kesharwani&theme=radical&bg_color=0D1117&hide_border=true"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
 ## `06.` EDUCATION
 
 **United College of Engineering and Research, Prayagraj**
