@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<a href="https://ashutosh-kesharwani.github.io/Ashutosh-Devspace/"><img src="https://img.shields.io/badge/PORTFOLIO-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://ashverse-three.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ashutosh-kesharwani-7370322bb"><img src="https://img.shields.io/badge/LINKEDIN-6EE7B7?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
 <a href="https://leetcode.com/u/ashutoshkesharwani20021406/"><img src="https://img.shields.io/badge/LEETCODE-FBBF24?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="mailto:ashutoshkesharwani20021406@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F472B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -76,7 +76,7 @@ Food discovery, persistent cart/wishlist, real-time order tracking. Stripe Check
 
 Component-driven portfolio with a rotating Earth and 5,000-particle animated starfield built on React Three Fiber. EmailJS contact form with real loading/error states.
 
-[**→ Live Site**](https://ashutosh-kesharwani.github.io/Ashutosh-Devspace/)
+[**→ Live Site**](https://ashverse-three.vercel.app/)
 
 </td>
 </tr>
@@ -195,7 +195,7 @@ B.Tech, Computer Science and Engineering · 2021 – 2025 · CGPA 7.5
 Open to **Full-Time roles — SDE / Full Stack / Backend** — scalable systems, backend engineering, full-stack product development.
 
 <a href="https://www.linkedin.com/in/ashutosh-kesharwani-7370322bb"><img src="https://img.shields.io/badge/LINKEDIN-6EE7B7?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-<a href="https://ashutosh-kesharwani.github.io/Ashutosh-Devspace/"><img src="https://img.shields.io/badge/PORTFOLIO-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://ashverse-three.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:ashutoshkesharwani20021406@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F472B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
