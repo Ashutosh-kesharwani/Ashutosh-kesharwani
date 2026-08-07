@@ -1,157 +1,190 @@
 <!-- ===================================================== -->
-<!-- HERO -->
+<!-- HERO — Dark Neon / Cyberpunk Theme -->
 <!-- ===================================================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14CF93,50:0f2027,100:203a43&height=230&section=header&text=Ashutosh%20Kesharwani&fontSize=42&fontColor=14CF93&fontAlignY=38" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=2600&pause=700&color=14CF93&center=true&vCenter=true&width=780&lines=I+ship+complete+products%2C+not+just+features;Frontend+%2B+Backend+%2B+Database+%2B+Deployment;MERN+Stack+Engineer+%7C+Production-Ready+Code;Currently+building+at+OctaScale+Technologies" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F0C29,50:302B63,100:24243e&height=250&section=header&text=ASHUTOSH%20KESHARWANI&fontSize=40&fontColor=A78BFA&fontAlignY=42&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20MERN&descAlignY=62&descSize=16&descColor=6EE7B7" />
 
-<p align="center">
-  <a href="https://ashutosh-kesharwani.github.io/Ashutosh-Devspace/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-14CF93?style=flat-square&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ashutosh-kesharwani-7370322bb">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/>
-  </a>
-  <a href="https://leetcode.com/u/ashutoshkesharwani20021406/">
-    <img src="https://img.shields.io/badge/LeetCode-300%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="mailto:ashutoshkesharwani20021406@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-14CF93?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=6EE7B7&background=00000000&center=true&vCenter=true&width=800&lines=I+build+complete+products%2C+end+to+end;Frontend+%E2%86%92+Backend+%E2%86%92+Database+%E2%86%92+Deployment;Currently+Engineering+at+OctaScale+Technologies;Production-Ready+%7C+Scalable+%7C+Secure" />
 
-<p align="center"><i>Turning ideas into scalable, deployed applications — end to end.</i></p>
+<br/>
 
----
+<a href="https://ashutosh-kesharwani.github.io/Ashutosh-Devspace/"><img src="https://img.shields.io/badge/PORTFOLIO-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ashutosh-kesharwani-7370322bb"><img src="https://img.shields.io/badge/LINKEDIN-6EE7B7?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+<a href="https://leetcode.com/u/ashutoshkesharwani20021406/"><img src="https://img.shields.io/badge/LEETCODE-FBBF24?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:ashutoshkesharwani20021406@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F472B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-## 👋 Who I Am
+</div>
 
-I'm a Full Stack Developer working across the entire product lifecycle — from database schema to deployed UI. Currently a **Junior Associate – IT at OctaScale Technologies**, where I work on real-time supply chain systems, I've also independently shipped a production-grade e-commerce platform and taken on freelance client work end-to-end.
+<br/>
 
-What drives how I work: I don't just implement tickets — I trace bugs to their root cause, design for scale before it's needed, and treat security and reliability as first-class requirements, not afterthoughts.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
----
+<br/>
 
-## 🛠️ What I've Shipped
+## `01.` WHOAMI
 
-### 🍔 [Cravio — Full-Stack Food Ordering Platform](https://cravio-mern.vercel.app/)
-`React.js` · `Node.js` · `Express.js` · `MongoDB` · `JWT` · `Stripe` · `Cloudinary`
+```js
+const ashutosh = {
+  role: "Full Stack Developer",
+  currentlyAt: "OctaScale Technologies (Junior Associate – IT)",
+  focus: ["real-time supply chain systems", "scalable backend architecture"],
+  philosophy: "trace bugs to root cause, design for scale before it's needed",
+  shipped: ["Cravio - production food-ordering platform", "AshVerse - 3D portfolio"],
+  problemsSolved: "300+",
+};
+```
 
-A complete food-ordering product built solo, covering the full stack:
-- Food discovery, persistent cart/wishlist, profile management, and real-time order tracking
-- Stripe Checkout integration with webhook-based payment verification
-- Role-based admin system secured with JWT access/refresh tokens and HttpOnly cookies
-- Cloudinary-powered image pipeline and an admin analytics dashboard
+I don't just "know" technologies — I ship complete, working systems with them: frontend, backend, database, and deployment, all owned end-to-end.
 
-### 🌌 [AshVerse — Personal Portfolio](https://ashutosh-kesharwani.github.io/Ashutosh-Devspace/)
-`React.js` · `Vite` · `Tailwind CSS` · `Three.js` · `Framer Motion`
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-- Responsive, component-driven portfolio with animated project and skills showcases
-- Custom 3D visuals via Three.js / React Three Fiber — a rotating Earth and a 5,000-particle starfield
-- EmailJS-powered contact form with proper loading and error states
+## `02.` WHAT I'VE SHIPPED
 
-### 🏥 Clinical Decision Support System (CDSS)
-`Python` · `HTML` · `CSS` · `JavaScript`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- ML-based diagnosis-assist tool with classification models wired into a real-time prediction web interface
-- 🏅 **Top 10 finish — U Hack 3.0 Hackathon**
+### 🍔 Cravio
+**Full-Stack Food Ordering Platform**
 
----
+`React` `Node.js` `Express` `MongoDB` `JWT` `Stripe`
 
-## 💼 Beyond Personal Projects
+Food discovery, persistent cart/wishlist, real-time order tracking. Stripe Checkout with webhook verification. Role-based admin auth via JWT access/refresh tokens + HttpOnly cookies. Cloudinary image pipeline + analytics dashboard.
 
-- Diagnosed and resolved **production-level backend issues** in a live Ruby on Rails MVC system
-- Delivered **multiple freelance full-stack applications** end-to-end, with consistent positive client feedback
-- Solid grounding in **SQL, MVC architecture, and OOP** — the fundamentals behind every project above
+[**→ Live Site**](https://cravio-mern.vercel.app/)
 
----
+</td>
+<td width="50%" valign="top">
 
-## ⚙️ Tech Stack
+### 🌌 AshVerse
+**Personal Portfolio / 3D Experience**
+
+`React` `Vite` `Three.js` `Framer Motion`
+
+Component-driven portfolio with a rotating Earth and 5,000-particle animated starfield built on React Three Fiber. EmailJS contact form with real loading/error states.
+
+[**→ Live Site**](https://ashutosh-kesharwani.github.io/Ashutosh-Devspace/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 CDSS
+**Clinical Decision Support System**
+
+`Python` `HTML/CSS/JS`
+
+ML classification models wired into a real-time prediction web interface for diagnosis assistance.
+
+🏅 **Top 10 — U Hack 3.0 Hackathon**
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Freelance & Production Fixes
+
+`Ruby on Rails` `MVC` `SQL`
+
+Diagnosed and resolved production-level backend issues in a live Rails MVC system. Delivered multiple freelance full-stack builds end-to-end, consistent positive client feedback.
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## `03.` STACK
+
+<div align="center">
 
 **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 **Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 
 **Backend & APIs**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
 **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
 
 **Tools & Cloud**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
 
----
+</div>
 
-## 🧠 How I Build
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-> "Good code works. Great engineering scales."
+## `04.` HOW I ENGINEER
 
-- **Systems over features** — I design for how a piece fits the whole, not just the ticket in front of me
-- **Root cause over quick fix** — production debugging means understanding *why*, not just patching *what*
-- **Security by default** — JWT, bcrypt, HttpOnly cookies, role-based access as standard practice, not extras
-- **Own the full pipeline** — comfortable owning a feature from schema design to deployment
+> *"Good code works. Great engineering scales."*
 
----
+| Principle | What it looks like in practice |
+|---|---|
+| 🧩 Systems over features | Design for how a piece fits the whole product, not just the ticket |
+| 🔍 Root cause over patch | Production debugging means understanding *why*, not just *what* |
+| 🔐 Security by default | JWT + bcrypt + HttpOnly cookies + role-based access, always |
+| 🚀 Own the full pipeline | Comfortable end-to-end: schema → API → UI → deploy |
 
-## 📊 GitHub Activity
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutosh-kesharwani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ashutosh-kesharwani&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+## `05.` GITHUB PULSE
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-kesharwani&theme=tokyo-night&hide_border=true"/>
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ashutosh-kesharwani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=ashutosh-kesharwani&theme=radical&hide_border=true&background=0D1117" height="165"/>
+</div>
 
----
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-kesharwani&theme=redical&bg_color=0D1117&hide_border=true"/>
+</div>
 
-## 🎓 Education
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## `06.` EDUCATION
 
 **United College of Engineering and Research, Prayagraj**
-B.Tech, Computer Science and Engineering | 2021 – 2025 | CGPA: 7.5
+B.Tech, Computer Science and Engineering · 2021 – 2025 · CGPA 7.5
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 📬 Let's Connect
+<div align="center">
 
-Open to **Full-Time roles — SDE / Full Stack / Backend** — particularly teams working on scalable systems and full-stack product development.
+## `07.` LET'S BUILD SOMETHING
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashutosh-kesharwani-7370322bb">LinkedIn</a> ·
-  <a href="https://ashutosh-kesharwani.github.io/Ashutosh-Devspace/">Portfolio</a> ·
-  <a href="mailto:ashutoshkesharwani20021406@gmail.com">Email</a>
-</p>
+Open to **Full-Time roles — SDE / Full Stack / Backend** — scalable systems, backend engineering, full-stack product development.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=90&section=footer&text=Thanks%20for%20visiting&fontSize=15&fontColor=14CF93"/>
-</p>
+<a href="https://www.linkedin.com/in/ashutosh-kesharwani-7370322bb"><img src="https://img.shields.io/badge/LINKEDIN-6EE7B7?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+<a href="https://ashutosh-kesharwani.github.io/Ashutosh-Devspace/"><img src="https://img.shields.io/badge/PORTFOLIO-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:ashutoshkesharwani20021406@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F472B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:24243e,50:302B63,100:0F0C29&height=100&section=footer&text=Thanks%20for%20stopping%20by&fontSize=15&fontColor=6EE7B7"/>
+
+</div>
