@@ -1,19 +1,29 @@
 <!-- ===================================================== -->
-<!-- HERO — Dark Neon / Cyberpunk Theme -->
+<!-- HERO — Dark Neon / Cyberpunk Theme, Frontend-Forward -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F0C29,50:302B63,100:24243e&height=250&section=header&text=ASHUTOSH%20KESHARWANI&fontSize=40&fontColor=A78BFA&fontAlignY=42&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20MERN&descAlignY=62&descSize=16&descColor=6EE7B7" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=260&section=header&text=ASHUTOSH%20KESHARWANI&fontSize=38&fontColor=A78BFA&fontAlignY=32&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=6EE7B7&background=00000000&center=true&vCenter=true&width=800&lines=I+build+complete+products%2C+end+to+end;Frontend+%E2%86%92+Backend+%E2%86%92+Database+%E2%86%92+Deployment;Currently+Engineering+at+OctaScale+Technologies;Production-Ready+%7C+Scalable+%7C+Secure" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2400&pause=600&color=6EE7B7&background=00000000&center=true&vCenter=true&multiline=true&width=820&height=90&lines=Full+Stack+Developer+%7C+MERN;Frontend-Leaning+%E2%80%94+I+design+interfaces%2C+then+power+them;React+%2B+Three.js+%2B+Node.js+%2B+MongoDB;Currently+Engineering+at+OctaScale+Technologies" />
 
 <br/>
+
+<img src="https://img.shields.io/badge/⚛️_Frontend-High_Expertise-A78BFA?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🛠️_Backend-Strong-6EE7B7?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🚀_Ships_Full_Products-Always-F472B6?style=for-the-badge&labelColor=0D1117"/>
+
+<br/><br/>
 
 <a href="https://ashutosh-kesharwani.github.io/Ashutosh-Devspace/"><img src="https://img.shields.io/badge/PORTFOLIO-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ashutosh-kesharwani-7370322bb"><img src="https://img.shields.io/badge/LINKEDIN-6EE7B7?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
 <a href="https://leetcode.com/u/ashutoshkesharwani20021406/"><img src="https://img.shields.io/badge/LEETCODE-FBBF24?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="mailto:ashutoshkesharwani20021406@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F472B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ashutosh-kesharwani&label=Profile+Views&color=A78BFA&style=for-the-badge"/>
 
 </div>
 
@@ -28,6 +38,8 @@
 ```js
 const ashutosh = {
   role: "Full Stack Developer",
+  strongestIn: "Frontend Engineering (React, Three.js, animation/UI craft)",
+  alsoOwns: ["Node.js APIs", "MongoDB schema design", "Auth & security"],
   currentlyAt: "OctaScale Technologies (Junior Associate – IT)",
   focus: ["real-time supply chain systems", "scalable backend architecture"],
   philosophy: "trace bugs to root cause, design for scale before it's needed",
@@ -36,7 +48,7 @@ const ashutosh = {
 };
 ```
 
-I don't just "know" technologies — I ship complete, working systems with them: frontend, backend, database, and deployment, all owned end-to-end.
+I design interfaces first, then build the systems that power them. My React work goes beyond components — 3D scenes, motion, and polish are part of how I ship — backed by backend and database work solid enough to run in production.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -100,18 +112,12 @@ Diagnosed and resolved production-level backend issues in a live Rails MVC syste
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-**Frontend**
+**Frontend — my strongest lane**
 <br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 
 **Backend & APIs**
@@ -126,6 +132,13 @@ Diagnosed and resolved production-level backend issues in a live Rails MVC syste
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 **Tools & Cloud**
 <br/>
@@ -146,6 +159,7 @@ Diagnosed and resolved production-level backend issues in a live Rails MVC syste
 
 | Principle | What it looks like in practice |
 |---|---|
+| 🎨 Interface-first thinking | UI/UX and motion aren't an afterthought — they're where I start |
 | 🧩 Systems over features | Design for how a piece fits the whole product, not just the ticket |
 | 🔍 Root cause over patch | Production debugging means understanding *why*, not just *what* |
 | 🔐 Security by default | JWT + bcrypt + HttpOnly cookies + role-based access, always |
@@ -161,7 +175,7 @@ Diagnosed and resolved production-level backend issues in a live Rails MVC syste
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-kesharwani&theme=redical&bg_color=0D1117&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-kesharwani&theme=radical&bg_color=0D1117&hide_border=true"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -171,7 +185,11 @@ Diagnosed and resolved production-level backend issues in a live Rails MVC syste
 **United College of Engineering and Research, Prayagraj**
 B.Tech, Computer Science and Engineering · 2021 – 2025 · CGPA 7.5
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<br/>
+
+<!-- ===================================================== -->
+<!-- ANIMATED FOOTER -->
+<!-- ===================================================== -->
 
 <div align="center">
 
@@ -185,6 +203,8 @@ Open to **Full-Time roles — SDE / Full Stack / Backend** — scalable systems,
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:24243e,50:302B63,100:0F0C29&height=100&section=footer&text=Thanks%20for%20stopping%20by&fontSize=15&fontColor=6EE7B7"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=500&color=A78BFA&background=00000000&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by+%E2%9C%A8;Let's+build+something+great+together!" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=120&section=footer" />
 
 </div>
