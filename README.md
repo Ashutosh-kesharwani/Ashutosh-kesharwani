@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=260&section=header&text=ASHUTOSH%20KESHARWANI&fontSize=38&fontColor=A78BFA&fontAlignY=32&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2400&pause=600&color=6EE7B7&background=00000000&center=true&vCenter=true&multiline=true&width=820&height=90&lines=Full+Stack+Developer+%7C+MERN;React%2B+%2B+Node.js+%2B+MongoDB;Open+to+Full-Time+Opportunities;300%2B+DSA+Problems+Solved" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2400&pause=600&color=6EE7B7&background=00000000&center=true&vCenter=true&multiline=true&width=820&height=90&lines=Full+Stack+Developer+%7C+MERN;React%2B+Node.js+%2B+MongoDB;Open+to+Full-Time+Opportunities;300%2B+DSA+Problems+Solved" />
 
 <br/><br/>
 
